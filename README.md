@@ -17,6 +17,5 @@ zf2test
     ```
     php vendor/bin/phinx init .
     vim phinx.yml
-    mkdir migrations
     php vendor/bin/phinx migrate -e development
     ```
