@@ -58,7 +58,8 @@ return array(
         ),
     ),
     'translator' => array(
-        'locale' => 'en_US',
+        //'locale' => 'en_US',
+        'locale' => 'es_ES',
         'translation_file_patterns' => array(
             array(
                 'type'     => 'gettext',
